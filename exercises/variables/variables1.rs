@@ -8,6 +8,7 @@
 // I AM NOT DONE
 
 fn main() {
-    x = 5;
+    let x = 5;
     println!("x has the value {}", x);
 }
+
